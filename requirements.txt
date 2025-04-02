@@ -5,3 +5,4 @@ pillow
 requests
 ultralytics
 opencv-python
+gunicorn
