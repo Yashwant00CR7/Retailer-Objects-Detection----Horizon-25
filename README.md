@@ -14,7 +14,11 @@ This repository contains the Machine Learning model developed for our smart shop
 - Used in conjunction with AR-based indoor navigation and voice support
 
 ## Test the Model here
-https://huggingface.co/spaces/Yash030/my-yolo-app
+👉 Try the model here:  
+**[🔗 Hugging Face Space](https://huggingface.co/spaces/Yash030/my-yolo-app)**
+
+<img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/0009232c-4bda-41ba-b705-7ff14cdce25b" />
+
 
 ## 🧠 Model Details
 
@@ -29,7 +33,7 @@ https://huggingface.co/spaces/Yash030/my-yolo-app
 
 
 object-detection-model/
-│
+```
 ├── models/                  # Trained YOLO model weights (.pt)
 ├── dataset/                 # Sample training images (optional)
 ├── api/                     # Flask API to serve model
@@ -39,7 +43,7 @@ object-detection-model/
 ├── requirements.txt         # Required Python packages
 └── README.md                # Project documentation
 
-
+```
 
 ## 🔧 Setup Instructions
 
