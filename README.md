@@ -13,6 +13,9 @@ This repository contains the Machine Learning model developed for our smart shop
 - REST API support for easy integration with apps
 - Used in conjunction with AR-based indoor navigation and voice support
 
+## Test the Model here
+https://huggingface.co/spaces/Yash030/my-yolo-app
+
 ## 🧠 Model Details
 
 - **Architecture**: YOLOv5 (You Only Look Once)
