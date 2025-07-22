@@ -1,12 +1,13 @@
+# Low Budget automated Stores
 
+Automated Store involves lot of Processing and automation and it usually cost high , Why can't we create something that integrates with our phone ? Well the Idea Came from there and We started
 
-
-# 🛒 Object Detection Model – Shopping App
+# 🛒 Object Detection Model – Automated Stores
 
 This repository contains the Machine Learning model developed for our smart shopping app. The model identifies objects/products in real-time using images from a camera or image input. This model is a core component of our app's intelligent features like dynamic pricing, AR navigation, and voice assistance.
 
 <img width="434" height="246" alt="image" src="https://github.com/user-attachments/assets/46d169f5-30c9-49e5-a8b2-f247f3145962" />
-
+Well Imagine A phone is placed in front of your cart and scans all the Products that you place and bills you accordingly
 
 ## 🚀 Features
 
