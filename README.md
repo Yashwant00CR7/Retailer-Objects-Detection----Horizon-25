@@ -7,7 +7,7 @@ Automated Store involves lot of Processing and automation and it usually cost hi
 This repository contains the Machine Learning model developed for our smart shopping app. The model identifies objects/products in real-time using images from a camera or image input. This model is a core component of our app's intelligent features like dynamic pricing, AR navigation, and voice assistance.
 
 <img width="434" height="246" alt="image" src="https://github.com/user-attachments/assets/46d169f5-30c9-49e5-a8b2-f247f3145962"/>
-
+<img width="360" height="232" alt="image" src="https://github.com/user-attachments/assets/a8523a2b-f9d6-4db5-8144-6833e3a3a47f" />
 
 Well Imagine A phone is placed in front of your cart and scans all the Products that you place and bills you accordingly
 
@@ -20,10 +20,11 @@ Well Imagine A phone is placed in front of your cart and scans all the Products 
 - Used in conjunction with AR-based indoor navigation and voice support
 
 ## Test the Model here
-👉 Try the model here:  
-**[🔗 Hugging Face Space](https://huggingface.co/spaces/Yash030/my-yolo-app)**
+### [👉 Try the model here](https://huggingface.co/spaces/Yash030/my-yolo-app) 
+* [🔗Hugging Face Space]
 
 <img width="1600" height="765" alt="image" src="https://github.com/user-attachments/assets/0009232c-4bda-41ba-b705-7ff14cdce25b" />
+
 
 
 ## 🧠 Model Details
