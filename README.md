@@ -127,8 +127,8 @@ The model returns:
 
 ## 🧑‍💻 Authors
 
-* \[Your Name] – ML Model Development
-* \[Teammates] – API, UI/UX, Navigation
+* [Yashwant K](https://github.com/Yashwant00CR7/) – ML Model Development
+* [Bharath Kumar](https://github.com/bharath-2634) – API, UI/UX, Navigation
 
 ## 📜 License
 
