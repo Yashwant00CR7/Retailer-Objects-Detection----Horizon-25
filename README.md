@@ -5,6 +5,9 @@
 
 This repository contains the Machine Learning model developed for our smart shopping app. The model identifies objects/products in real-time using images from a camera or image input. This model is a core component of our app's intelligent features like dynamic pricing, AR navigation, and voice assistance.
 
+<img width="434" height="246" alt="image" src="https://github.com/user-attachments/assets/46d169f5-30c9-49e5-a8b2-f247f3145962" />
+
+
 ## 🚀 Features
 
 - Detects multiple product categories using YOLOv5
