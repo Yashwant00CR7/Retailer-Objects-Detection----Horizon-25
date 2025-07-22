@@ -28,10 +28,10 @@ Well Imagine A phone is placed in front of your cart and scans all the Products 
 
 ## 🧠 Model Details
 
-- **Architecture**: YOLOv5 (You Only Look Once)
+- **Architecture**: YOLOv8 (You Only Look Once)
 - **Framework**: PyTorch
-- **Training Dataset**: Custom-labeled product dataset (e.g., sarees, kurtis, watches, electronics)
-- **Classes**: `["Saree", "Kurti", "Watch", "Sneakers", "Headphones", ...]`
+- **Training Dataset**: Custom-labeled product dataset (e.g., Noodles , Chocolates, watches, electronics)
+- **Classes**: `["Noodles", "Chocolates", "Watch", "Sneakers", "Headphones", ...]`
 - **Performance**: mAP@0.5 ≈ 90% on test set
 
 ## 📦 Project Structure
