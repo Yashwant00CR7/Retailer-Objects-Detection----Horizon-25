@@ -1,4 +1,4 @@
-# Low Budget automated Stores
+# Low Budget Automated Stores
 
 Automated Store involves lot of Processing and automation and it usually cost high , Why can't we create something that integrates with our phone ? Well the Idea Came from there and We started
 
